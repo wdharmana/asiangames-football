@@ -8,3 +8,7 @@
 /build
 /captures
 .externalNativeBuild
+app/google-services.json
+.idea/assetWizardSettings.xml
+.idea/vcs.xml
+app/libs/

@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "153155051519",
+    "firebase_url": "https://games-connect-9c310.firebaseio.com",
+    "project_id": "games-connect-9c310",
+    "storage_bucket": "games-connect-9c310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153155051519:android:d6df98d8bb5c66d5",
+        "android_client_info": {
+          "package_name": "com.colonylabs.agfootball"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153155051519-3ne3ekb69vn4dlh0cu43sbdk4pdjg7eb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.colonylabs.agfootball",
+            "certificate_hash": "ad307642ac0c4076ee3c3b83ed2cd05d04881077"
+          }
+        },
+        {
+          "client_id": "153155051519-jor4duv12op801o82o9r3nfkkof2jpbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoEtnRB9npG3BosmqEFyfd7BW0oN44DwM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153155051519-jor4duv12op801o82o9r3nfkkof2jpbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153155051519:android:a8bd0accef6a1c8f",
+        "android_client_info": {
+          "package_name": "com.colonylabs.gamesconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153155051519-vmmtgto02bng9k1bs3e5k6iklvdi7bl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.colonylabs.gamesconnect",
+            "certificate_hash": "ad307642ac0c4076ee3c3b83ed2cd05d04881077"
+          }
+        },
+        {
+          "client_id": "153155051519-3mcn830eof9k5r3fuqehq83jnb19qj5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.colonylabs.gamesconnect",
+            "certificate_hash": "69327a99ff0c34dc160b601c2bbb1525d7d6b195"
+          }
+        },
+        {
+          "client_id": "153155051519-37sbk29hfctgra7oaabnipbq0ndhld8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.colonylabs.gamesconnect",
+            "certificate_hash": "5a1ca8b57f000fa2772ff4eff7a26d9a6da9d751"
+          }
+        },
+        {
+          "client_id": "153155051519-jor4duv12op801o82o9r3nfkkof2jpbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoEtnRB9npG3BosmqEFyfd7BW0oN44DwM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153155051519-jor4duv12op801o82o9r3nfkkof2jpbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
